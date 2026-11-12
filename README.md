@@ -1,0 +1,1 @@
+# laedII-tabela-hash
